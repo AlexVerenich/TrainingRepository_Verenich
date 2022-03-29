@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Verenich"]
+	path = SubmoduleRepository_Verenich
+	url = https://github.com/AlexVerenich/SubmoduleRepository_Verenich
